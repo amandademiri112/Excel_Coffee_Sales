@@ -1,5 +1,5 @@
 # Excel Coffee Sales  
-#### Excel project demonstrating data cleaning, analysis, and dashboard creation to present sales trends about the companies products. 
+#### Excel project demonstrating data cleaning, analysis, and dashboard creation to present sales trends about the companies products.
 
 ## Purpose
 I created this project to demonstrate my abilities in Excel, using the dataset on coffee sales.  
@@ -23,6 +23,10 @@ As shown, I worked around feature limitations while maintaining dashboard functi
 Key insights I gathered from the analysis were: 0.5kg coffee size is most purchased, the US produces the most revenue, light coffee is most desired, and the most popular coffee type is Excelsa whilst the least popular is Robusta.  
 Furthermore, in a professional setting I would further investigate these to find out the reason why these results were produced, for example: I would hypothesise that the results from Total Sales by Coffee Type are due to the price of the Types rather than the popularity of them, so I'd add a bar chart for Total Quantity by Coffee Type to verify or deny this.
 
-[screenshots]
+## Dashboard Preview
+![Coffee Sales Dashboard](Coffee Sales Dashboard.PNG)
 
-[the excel sheet]
+## Cleaned Table Preview
+![Coffee Sales Orders Table](Coffee Sales Orders Table.PNG)
+
+###### Data used is artificial
