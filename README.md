@@ -24,9 +24,9 @@ Key insights I gathered from the analysis were: 0.5kg coffee size is most purcha
 Furthermore, in a professional setting I would further investigate these to find out the reason why these results were produced, for example: I would hypothesise that the results from Total Sales by Coffee Type are due to the price of the Types rather than the popularity of them, so I'd add a bar chart for Total Quantity by Coffee Type to verify or deny this.
 
 ## Dashboard Preview
-![Coffee Sales Dashboard](Coffee Sales Dashboard.PNG)
+![Coffee Sales Dashboard](Coffee-Sales-Dashboard.PNG)
 
 ## Cleaned Table Preview
-![Coffee Sales Orders Table](Coffee Sales Orders Table.PNG)
+![Coffee Sales Orders Table](Cleaned-Orders-Table.PNG)
 
 ###### Data used is artificial
