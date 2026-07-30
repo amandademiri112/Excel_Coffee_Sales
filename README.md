@@ -1,6 +1,18 @@
+![Static Badge](https://img.shields.io/badge/Excel-green)
+![Static Badge](https://img.shields.io/badge/Dashboard-darkgreen)
+
 # Excel Coffee Sales  
 #### Excel project demonstrating data cleaning, analysis, and dashboard creation to present sales trends about the companies products.
 
+## Contents  
+- [Purpose](#purpose)
+- [Dashboard](#dashboard)
+- [Objectives](#objectives)
+- [Skills](#skills)
+- [Challenges and Solutions](#challenges-and-solutions)
+- [Key Insights](#key-insights)
+- [Previews](#dashboard-preview)
+  
 ## Purpose
 I created this project to demonstrate my abilities in Excel, using the dataset on coffee sales.  
 
@@ -8,7 +20,7 @@ I created this project to demonstrate my abilities in Excel, using the dataset o
 I developed a dashboard that shows: Total Sales Over Time, Total Sales by Roast Type, by Coffee Type, and by Country, Quantity Sold by Coffee Size, and 4 KPIs including Total Sales, Customers, Orders, and Quantity of Coffee Sold. 
 
 ## Objectives
-The objectives of the project were to: show visually the companies sales, show total sales, highlight which roast types and coffee types produce the most sales, which countries generate the most sales, and which coffee size is most often purchased.  
+The objectives of the project were to: visualise sales statistics, present total sales, highlight which roast types and coffee types produce the most sales, which countries generate the most sales, and which coffee size is most often purchased.  
 Therefore, I'm able to highlight to the business which products give them the most sales; which coffee sizes, roast, and type the company should have a higher stock of, and where - as well as when - their sales are highest. 
 
 ## Skills 
@@ -29,4 +41,5 @@ Furthermore, in a professional setting I would further investigate these to find
 ## Cleaned Table Preview
 ![Coffee Sales Orders Table](Cleaned-Orders-Table.PNG)
 
+###### Excel sheet available in repository
 ###### Data used is artificial
