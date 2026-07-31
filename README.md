@@ -17,7 +17,17 @@
 I created this project to demonstrate my abilities in Excel, using the dataset on coffee sales.  
 
 ## Dashboard
-I developed a dashboard that shows: Total Sales Over Time, Total Sales by Roast Type, by Coffee Type, and by Country, Quantity Sold by Coffee Size, and 4 KPIs including Total Sales, Customers, Orders, and Quantity of Coffee Sold. 
+I developed a dashboard that shows:  
+  -Total Sales Over Time  
+  -Total Sales by Roast Type 
+  -Total Sales by Coffee Type   
+  -Total Sales by Country  
+  -Quantity Sold by Coffee Size
+and 4 KPIs including:
+  -Total Sales
+  -Total Customers  
+  -Total Orders  
+  -Total Quantity of Coffee Sold 
 
 ## Objectives
 The objectives of the project were to: visualise sales statistics, present total sales, highlight which roast types and coffee types produce the most sales, which countries generate the most sales, and which coffee size is most often purchased.  
