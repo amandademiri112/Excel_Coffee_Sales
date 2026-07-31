@@ -22,9 +22,9 @@ I developed a dashboard that shows:
   -Total Sales by Roast Type 
   -Total Sales by Coffee Type   
   -Total Sales by Country  
-  -Quantity Sold by Coffee Size
-and 4 KPIs including:
-  -Total Sales
+  -Quantity Sold by Coffee Size  
+and 4 KPIs including:  
+  -Total Sales  
   -Total Customers  
   -Total Orders  
   -Total Quantity of Coffee Sold 
