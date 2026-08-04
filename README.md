@@ -55,4 +55,5 @@ Furthermore, in a professional setting I would further investigate these to find
 ![Coffee Sales Orders Table](Cleaned-Orders-Table.PNG)
 
 ###### Excel sheet available in repository
+###### Data used available in repository
 ###### Data used is artificial
