@@ -12,6 +12,7 @@
 - [Challenges and Solutions](#challenges-and-solutions)
 - [Key Insights](#key-insights)
 - [Previews](#dashboard-preview)
+- [Download](#final-project)
   
 ## Purpose
 I created this project to demonstrate my abilities in Excel, using the dataset on coffee sales.  
@@ -54,6 +55,8 @@ Furthermore, in a professional setting I would further investigate these to find
 ## Cleaned Table Preview
 ![Coffee Sales Orders Table](Cleaned-Orders-Table.PNG)
 
-###### Excel sheet available in repository
+## Final Project
+**[Go to Final Project](./Coffee_Sales_Data.xlsx)**
+  
 ###### Data used available in repository
 ###### Data used is artificial
