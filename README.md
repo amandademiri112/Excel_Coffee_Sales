@@ -40,7 +40,7 @@ Therefore, I'm able to highlight to the business which products give them the mo
 ## Skills 
 Technical skills: XLOOKUP, INDEX and MATCH, IFS, Formatting, Pivot Tables, Charts, Dashboard design.  
   
-Soft skills: Problem Solving by adapting to software limitations and using formula-based workarounds
+Soft skills: Problem Solving by adapting to software limitations and using formula-based workarounds.
 
 ## Challenges and Solutions
 As I was using Excel for the web, unfortunately it doesn't support grouping in PivotTables, so I created Year and Month helper columns using the formulas =YEAR() and =MONTH(), and then inserted both columns into rows on the pivot table (Year above Month) in order to achieve the same result.  
