@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Excel-green)
 ![Static Badge](https://img.shields.io/badge/Dashboard-darkgreen)
 
-# Excel Coffee Sales  
+# Coffee Sales Dashboard  
 #### Excel project demonstrating data cleaning, analysis, and dashboard creation to present sales trends about the companies products.
 
 ## Contents  
