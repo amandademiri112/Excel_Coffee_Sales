@@ -39,6 +39,7 @@ Therefore, I'm able to highlight to the business which products give them the mo
 
 ## Skills 
 Technical skills: XLOOKUP, INDEX and MATCH, IFS, Formatting, Pivot Tables, Charts, Dashboard design.  
+  
 Soft skills: Problem Solving by adapting to software limitations and using formula-based workarounds
 
 ## Challenges and Solutions
