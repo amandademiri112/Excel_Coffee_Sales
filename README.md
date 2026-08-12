@@ -44,7 +44,7 @@ I created this project to demonstrate my abilities in Excel, using the dataset o
 Therefore, I'm able to highlight to the business which products give them the most sales; which coffee sizes, roast, and type the company should have a higher stock of, and where - as well as when - their sales are highest. 
 
 ## Skills 
-**Technical skills:** 
+![Static Badge](https://img.shields.io/badge/Technical%20Skills-steelblue)  
 - XLOOKUP  
 - INDEX and MATCH  
 - IFS  
@@ -53,7 +53,7 @@ Therefore, I'm able to highlight to the business which products give them the mo
 - Charts  
 - Dashboard design    
     
-**Soft skills:**  
+![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0)   
 - Problem Solving by adapting to software limitations and using formula-based workarounds.
 
 ## Challenges and Solutions
