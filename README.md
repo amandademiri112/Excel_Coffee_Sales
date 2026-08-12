@@ -75,7 +75,7 @@ Furthermore, in a professional setting I would further investigate these to find
 ![Coffee Sales Orders Table](Assets/Cleaned-Orders-Table.PNG)
 
 ## Final Project
-**[Go to Final Project](Final%20Project/Coffee_Sales_Data.xlsx)**
+**[Go to Final Project](Final_Project/Coffee_Sales_Data_COMPLETE_PROJECT.xlsx)**
   
 ###### Data used available in repository
 ###### Data used is artificial
